@@ -3,7 +3,7 @@
 ##### Hello I am Andre Burger (20 , Male). I am currently studying Software Engineering while working part time as a Junior Data Scientist/Software Engineer.
 ---
 
-<div style="background-color:rgba(243, 208, 226, 0.8); text-align:center; vertical-align: middle; padding:40px 0; border-radius: 10px;">
+<div style="text-align:center; vertical-align: middle; padding:40px 0; border-radius: 10px;">
 ABOUT ❓:
 <ul>
 <li>Junior Data Scientist/Software Engineer at SR 71 Consulting.</li>
@@ -14,7 +14,7 @@ ABOUT ❓:
 </div>
 
 ---
-<div style="background-color:rgba(208, 231, 243, 0.8); text-align:center; vertical-align: middle; padding:40px 0; border-radius: 10px;">
+<div style="text-align:center; vertical-align: middle; padding:40px 0; border-radius: 10px;">
 EDUCATION 	🎓:
 <ul>
 <li>Bcomp Software Engineering (1st year).</li>
