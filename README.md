@@ -1,6 +1,6 @@
 ### Hi i'm Andre  👦
 ---
-##### Hello I am Andre Burger (20 , Male). I am currently studying Software Engineering while working part time as a Junior Data Scientist/Software Engineer.
+##### Hello I am Andre Burger (21 , Male). I am currently studying Software Engineering while working part time as a Junior Data Scientist/Software Engineer.
 ---
 
 <div style="text-align:center; vertical-align: middle; padding:40px 0; border-radius: 10px;">
