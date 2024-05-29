@@ -1,20 +1,19 @@
-<div style="width: 100%; justify-content: center; display: flex; flex-direction: column; align-items: center; gap: 1rem">
-    <img style="width: 20rem;" src="/assets/andre-code-club.svg"></img>
+<div align="center" style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 1rem">
+    <img src="./assets/andre-code-club.svg" alt="Andre Code Club" style="width: 20rem;">
     <div id="badges">
         <a href="https://www.linkedin.com/in/andre-burger-sen/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>        
         </a>
         <a href="https://www.kaggle.com/andebxdee">
-                <img src="https://img.shields.io/badge/Kaggle-%2300beff.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+            <img src="https://img.shields.io/badge/Kaggle-%2300beff.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
         </a>        
         <a href="https://github.com/andreburg">
             <img src="https://img.shields.io/badge/GitHub-%23040b17?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
         </a>
     </div>
     <a href="https://andreburg-dev.onrender.com/">
-        <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logoColor=black" alt="Github Badge"/>
+        <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logoColor=black" alt="Website Badge"/>
     </a>
-
 </div>
 
 ---
@@ -25,7 +24,7 @@
             hi there 👋🥸
         </h1>
     </div>
-    <img src="/assets/andre-emote.apng" style="position: absolute; z-index: 0;"/>
+    <img src="./assets/andre-emote.apng" style="position: absolute; z-index: 0;"/>
 </div>
 
 ## 👦 About Me:
