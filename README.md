@@ -1,6 +1,9 @@
-### Hi i'm Andre  👦
+### Hi i'm Andre 👦
+
 ---
+
 ##### Hello I am Andre Burger. I am currently studying Software Engineering while working part time as a Junior Data Scientist/Software Engineer.
+
 ---
 
 <div style="text-align:center; vertical-align: middle; padding:40px 0; border-radius: 10px;">
@@ -11,7 +14,7 @@ ABOUT ❓:
 <li>I have great ambitions to leave my individual mark and flavor in the tech world, leading with influence and changing the industry with innovative ideas and solutions.</li>
 </ul>
 </div>
-
+<img src="https://github.com/andreburg/assets/andre-emote.apng"></img>
 ---
 <div style="text-align:center; vertical-align: middle; padding:40px 0; border-radius: 10px;">
 EDUCATION 	🎓:
