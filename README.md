@@ -26,7 +26,7 @@
 I'm a passionate software engineer from South Africa 🇿🇦. Currently, I'm pursuing my studies in Software Engineering at Belgium Campus ITversity 🇧🇪. I have a deep love for all things tech 👨‍💻. Whether it's diving into new programming languages, exploring cutting-edge technologies, or building innovative projects, I am always eager to learn and grow.
 
 - 🌱 Learning svelte.
-- 👷 Creating a social app.
+- 👷 Rebuilding portfolio website.
 - ⚡ "Redbull gives you wings" 💸.
 
 🔍 Feel free to explore my projects and don't hesitate to reach out if you want to connect!
