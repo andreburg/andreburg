@@ -1,4 +1,4 @@
-<div align="center" style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 1rem">
+<div align="center" style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 2rem">
     <img src="./assets/andre-code-club.svg" alt="Andre Code Club" style="width: 15rem;">
     <div id="badges">
         <a href="https://www.linkedin.com/in/andre-burger-sen/">
