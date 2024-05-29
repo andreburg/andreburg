@@ -20,9 +20,9 @@
 
 <div display="flex" style="display: flex; justify-content: center; align-items: center; background-color: #080412; padding: 1rem; gap: 5rem; position: relative; border: 2px solid #f5da42">
     <div align="center" style="z-index: 1; padding-bottom: 15rem; text-align: center">
-        <h1>
+        <p>
             hi there 👋🥸
-        </h1>
+        </p>
     </div>
     <img src="./assets/andre-emote.gif" style="position: absolute; z-index: 0;"/>
 </div>
