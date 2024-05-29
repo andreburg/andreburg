@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 1rem">
-    <img src="./assets/andre-code-club.svg" alt="Andre Code Club" style="width: 20rem;">
+    <img src="./assets/andre-code-club.svg" alt="Andre Code Club" style="width: 15rem;">
     <div id="badges">
         <a href="https://www.linkedin.com/in/andre-burger-sen/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>        
