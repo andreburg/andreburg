@@ -19,12 +19,12 @@
 ---
 
 <div display="flex" style="display: flex; justify-content: center; align-items: center; background-color: #080412; padding: 1rem; gap: 5rem; position: relative; border: 2px solid #f5da42">
-    <div align="center" background-color="#080412" style="z-index: 1; padding-bottom: 15rem; text-align: center">
+    <div align="center" style="z-index: 1; padding-bottom: 15rem; text-align: center">
         <h1>
             hi there 👋🥸
         </h1>
     </div>
-    <img src="./assets/andre-emote.apng" style="position: absolute; z-index: 0;"/>
+    <img src="./assets/andre-emote.gif" style="position: absolute; z-index: 0;"/>
 </div>
 
 ## 👦 About Me:
