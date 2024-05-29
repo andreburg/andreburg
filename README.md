@@ -18,14 +18,8 @@
 
 ---
 
-<div display="flex" style="display: flex; justify-content: center; align-items: center; background-color: #080412; padding: 1rem; gap: 5rem; position: relative; border: 2px solid #f5da42">
-    <div align="center" style="z-index: 1; padding-bottom: 15rem; text-align: center">
-        <p>
-            hi there 👋🥸
-        </p>
-    </div>
-    <img src="./assets/andre-emote.gif" style="position: absolute; z-index: 0;"/>
-</div>
+<img width="100%" src="./assets/hi-there.png"/>
+<img width="100%" src="./assets/andre-emote.gif"/>
 
 ## 👦 About Me:
 
