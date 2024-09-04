@@ -11,7 +11,7 @@
             <img src="https://img.shields.io/badge/GitHub-%23040b17?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
         </a>
     </div>
-    <a href="https://andreburg-dev.onrender.com/">
+    <a href="https://andre-dev.org/">
         <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logoColor=black" alt="Website Badge"/>
     </a>
 </div>
